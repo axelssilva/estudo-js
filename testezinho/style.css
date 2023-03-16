@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+
+ul {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+li {
+    width: 300px;
+    background-color: lightgray;
+    border-radius: 20px;
+    height: 200px;
+    text-align: center;
+    margin: 10px;
+}
+input{
+    border-radius: 5px;
+}
